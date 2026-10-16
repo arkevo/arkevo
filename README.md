@@ -21,7 +21,7 @@ Most film is shot in landscape and most phones are held upright, and a centre cr
 
 ### GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/arkevo)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=arkevo&hide_border=true)
 
 ### What I'm Doing
 
